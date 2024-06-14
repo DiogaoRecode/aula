@@ -34,3 +34,13 @@ print (format_3)
 tipo_nome= type(nome)
 
 print (tipo_nome)
+
+
+"""INPUT - Inserindo informaçoes pela digitaçao do usuario"""
+
+nome = str(input ("Digite o seu nome: "))
+idade = int(input("Digite a sua idade: 12"))
+print(type(idade))
+idade_futura=idade + 3
+
+print(f"O nome da pessoa é {nome}, sua idade hoje é {idade}. Daqui 3 anos terá {idade_futura}.")
