@@ -1,4 +1,6 @@
-"""
+
+"""ATIVIDADE EM SQUAD"""
+"""   
 Leiam o caso abaixo e executem usando Python.
 
 A loja "ROUPAS SA" tem 2000 clientes e quer enviar mensagens nominais a cada um. A mensagem seria a seguinte:
@@ -16,7 +18,9 @@ cupom = nome+"É"+str(desconto)
 
 print("Olá, " + nome_completo , ". Em JANEIRO você realizou uma compra no valor de", valor , "e ganhou um desconto de", desconto ,"% em sua próxima compra. Use o cupom" , cupom )
 
+"""""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" """""" 
 
+"""CONTEUDO DA AULA"""
 """ TIPO DE FORMAT PARA IMPRESSAO DE MENSAGEM"""
 format_1 = f"O nome da pessoa é {nome_completo} e faz aniversario no mês de {mes}"
 format_2 = "O nome da pessoa é {}, desconto dela é {}".format(nome, desconto) 
