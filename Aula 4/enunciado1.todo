@@ -1,0 +1,7 @@
+
+
+QUESTAO ATIVIDADE 1
+
+✔ 1) USANDO IF : Construa um script para verificar se o usuãrio tem uma idade maior que 18 anos, se tiver, imprima na tela "Individuo possui idade minima para dirigir" @done(24-06-18 20:08)
+ ✔ 2)  USANDO ELSE: Complemente o script feito, imprimindo na tela "Individuo NÃO possui idade minima para dirigir" @done(24-06-18 20:10)
+ ✔ 3) USANDO ELIF: Complemente o script feito, imprimindo na tela "Individuo tem entre 17 e 18 anos e ainda NÃO possui idade minima para dirigir" @done(24-06-18 20:11)
