@@ -1,0 +1,56 @@
+
+------------------------------------EM SQUAD-----------------------------------
+Crie um script com as seguintes instruções, pesquisando na internet como fazer:
+✔ Crie uma tupla com 5 dados @done(24-06-25 20:32)
+✔ Altere a tupla para uma lista @done(24-06-25 20:32)
+✔ Insira 2 dados extras a essa lista @done(24-06-25 20:48)
+✔ Remova o primeiro dado da lista @done(24-06-25 20:53)
+✔ Remova o último dado da lista @done(24-06-25 20:53)
+✔ Faça um print com o primeiro dado da lista @done(24-06-25 20:58)
+✔ Faça um print com a quantidade de dados da lista @done(24-06-25 20:58)
+
+Crie um dicionário com os seguintes dados:
+☐ Nome, Idade, Profissão
+☐ Imprima somente o valor contido na chave Nome do dicionário
+
+
+
+------------------------------------------------------RESUMO DA MATERIA COLLECTIONS------------------------------------------
+1) TUPLA é imutavel, náo sendo possivel adicionar itens!"
+Exemplo: 
+tupla_alunos = ("Diogo","Diego","Douglas","Thais","Jovana")
+
+2) LISTA
+Lista é mutavel, sendo possivel adicionar/ remover itens!
+Exemplo:
+lista_produtos = ["Diogo","Diego","Douglas","Thais","Jovana"]
+
+Adicionado itens na lista - Exemplo: 
+lista_alunos.append("Carol")
+
+3) SET  - não possui uma ordem definida, os dados vem de qualquer forma
+      - mutavel sendo possivel add/ remover itens
+      - Conjuntos do Python
+      - Não pode haver dados duplicados, estrategia converter lista em Set para remover dados duplicados
+Exemplo:
+set_alunos = {"Diogo","Diego","Douglas","Thais","Jovana"}
+
+Não é possivel pegar valores no SET, conforme mostrado abaixo:
+print(set_alunos[0]) = Dessa forma dará erro, pois não possui uma ordem definida
+logo será necessário converter em lista para conseguir pegar essa informação:
+
+print(list(set_alunos[0]))
+
+Adicionando itens no ste - Exemplo:
+set_alunos.add("Carol")
+
+
+4) Dicionario
+Cria um lista de valores com rotulos. 
+Exemplo:
+  emails_aluno = {
+    "Diogo": "diogo@gmail.com",
+    "Diego": "diego@gmail.com",
+    "Thais": "thais@gmail.com",
+  }
+

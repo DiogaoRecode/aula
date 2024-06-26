@@ -1,0 +1,7 @@
+☐ EM SQUADS, Leiam o texto abaixo e resolvam.
+✔ Na "JUNTOFIT", se um aluno tiver frequência de 21 vezes, sem interrupções, ele ganha um mês de aulas gratuitas para presentear um acompanhante. @done(24-06-18 21:17)
+✔ Caso contrário, ele não se qualifica para o benefício. @done(24-06-18 21:17)
+Na catraca de acesso, haverá uma tela voltada para o cliente. 
+✔ Todos os dias, quando ele passar, deve aparecer a mensagem "VOCÊ ESTÁ PARTICIPANDO DA NOSSA PROMO TREINA JUNTO" @done(24-06-18 21:17)
+✔ Quando ele completar 21 identificações seguidas, deve aparecer a mensagem "UHUU. AGORA VOCÊ PODE PRESENTEAR UM AMIGO OU AMIGA PARA TREINAR COM VOCÊ". @done(24-06-18 21:17)
+✔ Caso o cliente tenha uma certa frequência, mas falte algum dia, quando retornar, deve aparecer "QUE BOM VER VOCÊ DE VOLTA. A PARTIR DE AGORA INICIAMOS MAIS UMA CONTAGEM DE 21 DIAS PARA A PROMO TREINA JUNTO." @done(24-06-18 21:17)
