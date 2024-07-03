@@ -1,0 +1,7 @@
+☐ EM SQUAD 
+Leiam o case e resolvam a situação.
+A Loja do Joga Junto conta mais uma vez com a colaboração do seu squad! Desta vez, surge a necessidade de desenvolver um programa que analisa o CEP inserido pelo usuário e determina se ele é elegível para frete grátis. Para realizar essa tarefa, foi definida uma política de frete grátis abrangendo todos os estados das regiões Norte e Nordeste do país.
+Faça um brainstorming com sua equipe sobre o fluxo e requisitos necessários para construção desse programa
+Desenvolva o programa
+Faça casos de teste para este cenário, documente os testes realizados e insira no Bitrix
+Caso seja encontrado algum bug no seu código, documente-o.

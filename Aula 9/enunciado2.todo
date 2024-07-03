@@ -1,0 +1,8 @@
+☐ PARTE 1
+Crie um DataFrame com os seguintes dados:
+Nome, idade e cidade. 
+✔ Sendo 3 pessoas moradoras de Recife, @done(24-07-02 20:24)
+✔ 2 de Salvador, @done(24-07-02 20:24)
+✔ 1 de são paulo @done(24-07-02 20:25)
+✔ e 1 de Manaus @done(24-07-02 20:25)
+Depois, filtre os dados para exibir na tela apenas os moradores do Recife.
