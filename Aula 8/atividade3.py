@@ -9,7 +9,7 @@ def main() -> None:
   link = f"{ENDPOINT}{cep_valido}{FORMATO_RETORNO_API}"
   requisicao = requests.get(link)
   resposta = requisicao.json()
-  if validaRespostaRequisacao(requisicao):
+  if valida_resposta_requisacao(requisicao):
     uf=resposta.get('uf')
     if uf is None:
        print("Não existe CEP com este endereço!")
@@ -28,7 +28,7 @@ def validaCEP (cep:str)-> int:
     cep = input("Digite o número do cep: ")
   return cep
 
-def validaRespostaRequisacao(requisicao: requests.Response)->bool:
+def valida_resposta_requisacao(requisicao: requests.Response)->bool:
   if(requisicao.status_code == 200):
     print("Consulta realizada com SUCESSO!")
     return True
